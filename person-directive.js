@@ -18,6 +18,7 @@
 
   app.directive("myPersonDirective", function() {
     return {
+	  scope: {},
       template: '<div class="row" style="margin: 40px;">' +
 				  '<div class="col-xs-8 col-md-3">' +
 					'<div class="panel panel-default panel-primary">' +
