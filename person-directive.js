@@ -65,4 +65,4 @@
                 vm.people.splice(index, 1);
             };
         });
-} ());
+})();
