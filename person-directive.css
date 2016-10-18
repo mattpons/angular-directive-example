@@ -1,0 +1,23 @@
+#directive-container {
+	margin-top: 40px;
+}
+
+#reset-btn {
+	float: right;
+}
+
+#reset-btn i.glyphicon {
+	color: green;
+}
+
+#del-btn {
+	background-color: #d43f3a;
+}
+
+#del-btn:hover {
+	background-color: darkred;
+}
+
+#person-list {
+	list-style: none;
+}
